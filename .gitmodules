@@ -4,3 +4,15 @@
 [submodule "SaltStack"]
 	path = SaltStack
 	url = git@github.com:ShowingCloud/Dubhe.git
+[submodule "Account"]
+	path = Account
+	url = git@github.com:ShowingCloud/Nashira.git
+[submodule "Portal"]
+	path = Portal
+	url = git@github.com:ShowingCloud/Ain.git
+[submodule "Projects"]
+	path = Projects
+	url = git@github.com:ShowingCloud/Aquarius.git
+[submodule "CRM"]
+	path = CRM
+	url = git@github.com:ShowingCloud/Castor.git
