@@ -1,3 +1,6 @@
-[submodule "Dubhe"]
-	path = Dubhe
+[submodule "SSO"]
+	path = SSO
+	url = git@github.com:ShowingCloud/Dabih.git
+[submodule "SaltStack"]
+	path = SaltStack
 	url = git@github.com:ShowingCloud/Dubhe.git
