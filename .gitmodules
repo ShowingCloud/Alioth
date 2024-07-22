@@ -1,0 +1,3 @@
+[submodule "Dubhe"]
+	path = Dubhe
+	url = git@github.com:ShowingCloud/Dubhe.git
