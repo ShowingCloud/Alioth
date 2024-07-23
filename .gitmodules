@@ -16,3 +16,6 @@
 [submodule "CRM"]
 	path = CRM
 	url = git@github.com:ShowingCloud/Castor.git
+[submodule "OpenLDAP"]
+	path = OpenLDAP
+	url = git@github.com:ShowingCloud/Alkaid.git
