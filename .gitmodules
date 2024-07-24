@@ -19,3 +19,6 @@
 [submodule "OpenLDAP"]
 	path = OpenLDAP
 	url = git@github.com:ShowingCloud/Alkaid.git
+[submodule "Infrastructures"]
+	path = Infrastructures
+	url = git@github.com:ShowingCloud/Mizar.git
